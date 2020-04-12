@@ -13,3 +13,7 @@ https://arxiv.org/pdf/1810.09164.pdf
 
 ### Transfer Learnable SRC
 http://webdatacommons.org/webtables/
+
+### Exploitable KB (Knowledge Base)
+#### DBpedia
+https://wiki.dbpedia.org/ 
