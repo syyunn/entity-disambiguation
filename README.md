@@ -22,3 +22,7 @@ https://wiki.dbpedia.org/
 
 ### Embedding Approach
 Table2Vec: Neural Word and Entity Embeddings for Table Population and Retrieval
+
+### Deeplearning leveraged
+9, 14, 15 in references on Novel Entity Discovery from Web Tables
+https://github.com/dalab/deep-ed
