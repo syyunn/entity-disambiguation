@@ -28,5 +28,5 @@ Table2Vec: Neural Word and Entity Embeddings for Table Population and Retrieval
 https://github.com/dalab/deep-ed
 
 ### On Tabular, not Text
-Most NED applied to Text data only, however, our task is required to perform over tabular data
+Most NED applied to Text data only, however, our task is required to perform over tabular data. Check AIDA which directly runs over postgres
 https://github.com/codepie/aida
