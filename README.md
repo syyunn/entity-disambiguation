@@ -17,3 +17,6 @@ http://webdatacommons.org/webtables/
 ### Exploitable KB (Knowledge Base)
 #### DBpedia
 https://wiki.dbpedia.org/ 
+
+### Embedding Approach
+Table2Vec: Neural Word and Entity Embeddings for Table Population and Retrieval
