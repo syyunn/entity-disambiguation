@@ -8,6 +8,7 @@ In case we are assuming the conctete situation that peforms NED over RDMBS, the 
 https://arxiv.org/pdf/2002.00206.pdf (Novel Entity Discovery from Web Tables)
 
 http://iswc2015.semanticweb.org/sites/iswc2015.semanticweb.org/files/93660385.pdf (TabEL)
+-- TabEL, which employs a graphical model to jointly model table interpretation. Such joint models are based on a strong assumption that the relations expressed can be mapped to the target KB, if not consider otherwise.
 
 ### Bewteen-tables-NED
 https://arxiv.org/pdf/1810.09164.pdf
