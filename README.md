@@ -7,7 +7,7 @@ In case we are assuming the conctete situation that peforms NED over RDMBS, the 
 ### Inside-table-NED (also called "table semantic interpretation systems")
 https://arxiv.org/pdf/2002.00206.pdf (Novel Entity Discovery from Web Tables)
 
-http://iswc2015.semanticweb.org/sites/iswc2015.semanticweb.org/files/93660385.pdf
+http://iswc2015.semanticweb.org/sites/iswc2015.semanticweb.org/files/93660385.pdf (TabEL)
 
 ### Bewteen-tables-NED
 https://arxiv.org/pdf/1810.09164.pdf
